@@ -1,1 +1,4 @@
 digite seu e-mail
+digite uma senha
+digite sua idade
+digite sua data de nascimento
